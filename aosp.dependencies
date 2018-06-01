@@ -9,7 +9,7 @@
   },
   {
     "remote":      "github",
-    "repository":  "Subinsmani/proprietary_vendor_motorola",
+    "repository":  "bybryan/proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
     "branch":      "8.1.x"
   },
